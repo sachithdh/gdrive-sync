@@ -1,0 +1,9 @@
+{
+  "id": "gdrive-sync",
+  "name": "Google Drive Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Two-way sync of your vault with a folder in your own Google Drive. Works on desktop and mobile.",
+  "author": "sachithdh",
+  "isDesktopOnly": false
+}
